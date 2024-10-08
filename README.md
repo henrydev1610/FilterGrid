@@ -2,6 +2,7 @@
 ![imagem de topo](./images/print.png)
 
 
+[Acesse o projeto aqui](https://henrydev1610.github.io/FilterGrid/)
 
 # Galeria Filtrável com HTML, CSS e JavaScript
 
